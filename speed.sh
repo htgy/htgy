@@ -51,9 +51,9 @@ fi
 
 clear
 echo "#############################################################"
-echo "# Description: Test your server's network with Speedtest     #"
-echo "# Original Author: Oldking <oooldking@gmail.com>           #"
-echo "# Modified by Sieg                                                            #"
+echo "# Description: Test your server's network with Speedtest   #"
+echo "# Original Author: Oldking <oooldking@gmail.com>          #"
+echo "# Modified by Sieg                                        #"
 echo "#############################################################"
 echo
 echo "测试服务器到"
